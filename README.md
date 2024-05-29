@@ -1,8 +1,3 @@
-
-
-
-
-
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/1dantezinho/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="/get/@:1dantezinho?theme=rule34">](https://www.youtube.com/watch?v=NrfikKxF4Ps)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/1dantezinho/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
