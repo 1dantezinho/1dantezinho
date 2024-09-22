@@ -1,4 +1,8 @@
- 
+ <div>
+<a href="https://github.com/1dantezinho">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dantezinho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=1dantezinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/1dantezinho/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
