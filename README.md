@@ -1,5 +1,5 @@
 [<img align="left" width="150" alt="🦑" src="https://youtu.be/RxiTWxP9Xf4?si=kpHy7z2WXnGGJYwF">](#)
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:danterkive?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:danterkive?theme=rule34">](https://youtu.be/RxiTWxP9Xf4?si=e9phZODed3GveSvK)
 [<img align="right" width="390" alt="🦑" src="https://https://github.com/danterkive/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.https://github.com/danterkive/raw/placeholder.svg">](#)
 
